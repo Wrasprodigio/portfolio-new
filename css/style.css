@@ -236,7 +236,7 @@ li{
 .box-projetos {
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 7px 15px;
     justify-content: space-evenly;
     background: #171c29e0;
     border-radius: 5px;

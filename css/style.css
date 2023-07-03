@@ -259,6 +259,7 @@ li{
 
 .box-projetos:hover {
     background-color: #32394be0;
+    transform: scale(1.2);
 }
 
 .combo-icone {
@@ -424,8 +425,13 @@ li{
     }
 
     #container-box-projetos {        
-        padding: 20px;
+        padding: 32px;
     }
+    .box-projetos:hover {
+        background-color: #32394be0;
+        transform: scale(1.1);
+    }
+    
 
     .container-box-resp #box-resp {
         display: flex;

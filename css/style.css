@@ -228,6 +228,11 @@ li{
     flex-wrap: wrap;
 }
 
+#projecto-java {
+    display: block;
+    margin-bottom: 80px;
+}
+
 #box-proj {
     display: flex;
     flex-wrap: wrap;
@@ -427,6 +432,7 @@ li{
     #container-box-projetos {        
         padding: 32px;
     }
+    
     .box-projetos:hover {
         background-color: #32394be0;
         transform: scale(1.1);

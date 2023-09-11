@@ -249,7 +249,7 @@ li{
     justify-content: space-evenly;
     background: #171c29e0;
     border-radius: 5px;
-    width: 50%;
+    width: 60%;
 }
 
 .box-projetosJava .box-img img{
@@ -307,8 +307,8 @@ li{
 .container-box-resp .box-img-resp {
     display: block;
     margin: auto;
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 .container-box-resp .box-img-resp img{
@@ -458,7 +458,9 @@ li{
     #container-box-projetos {        
         padding: 32px;
     }
-    
+    .box-projetosJava {
+        width: 100%;
+    }
     .box-projetos:hover {
         background-color: #32394be0;
         transform: scale(1.1);
